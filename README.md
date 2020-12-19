@@ -7,7 +7,7 @@ This project aimed to conclude my introductory course at **Epicodus** with focus
 * clone repository to your text editor using following [URL](https://github.com/DanielAdeyemi/project3)
 * if you want to see my code - go to the specific part of my project, such as *index.html* for main code or to *css/styles.css* to check stylesheet or *scripts.js* to review my java script functions.
 * after that you can run index.html page through your terminal, using command: *open index.html* to view my page. **Please make sure you are inside right folder before run the command**
-* Also if you just want to check my project website, you can open it through [GitHub pages](https://danieladeyemi.github.io/Portfolio/)
+
 ## Tecnologies used
 - HTML
 - CSS
