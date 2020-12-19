@@ -19,10 +19,10 @@ This project aimed to conclude my introductory course at **Epicodus** with focus
 #### Test: *"Should return array of numbers from 0 to user input"*
 #### Expected outcome: *array(5).toEqual([0, 1, 2, 3, 4, 5])*
 #### Describe: *check()*
-#### Test: *Checking for valid input and return alert if input less than 1 or not a number""*
+#### Test: *"Checking for valid input and return alert if input less than 1 or not a number"*
 #### Expected outcome: *check(la).toEqual("Enter valid number, please.")*
 #### Describe: *three()*
-#### Test: "If any number in array contains digit "3" - replace it with "Won't you be my neighbor?" with highest priority"
+#### Test: *"If any number in array contains digit "3" - replace it with "Won't you be my neighbor?" with highest priority"*
 #### Expected outcome: *three(32).toEqual("Won't you be my neighbor?")*
 #### Describe:*two()*
 #### Test: "If any number contains digit "2" - replace it with "Boop!" with second priority (3 will take precedent over 2)"
